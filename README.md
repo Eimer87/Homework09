@@ -1,4 +1,4 @@
-# HOMEWORK08/ README.md Generator
+# HOMEWORK09/ README.md Generator
 
 ## Description 
   
@@ -27,9 +27,7 @@ The application itself can be invoked with `node index.js`.
 
 ## Usage 
 
-*Instructions and examples for use:*
-
-![Gif demo of README-generator](readme-demo.gif)
+*Instructions:*
 
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
